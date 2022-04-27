@@ -2,8 +2,6 @@ from numpy import dsplit
 import streamlit as st
 
 
-# Whenever sensi or speci go below 0.5, the model reaches breakeven
-
 st.title('Winemakers Dilemma - Part 3')
 
 st.text('Name: Aditya Bindra | Andrew ID: adityabi')
